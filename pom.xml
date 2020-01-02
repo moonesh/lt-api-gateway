@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.lt.gateway</groupId>
-	<artifactId>api-gateway</artifactId>
+	<artifactId>lt-api-gateway</artifactId>
 	<version>0.0.1-RELEASE</version>
 	<packaging>jar</packaging>
 
-	<name>api-gateway</name>
+	<name>lt-api-gateway</name>
 	<description>API Gateway</description>
 
 	<parent>
